@@ -51,6 +51,8 @@ The algorithm typically converges within 200 generations, producing:
   - Interactive map with route overlay
   - Convergence graph showing fitness improvement
 
+![Alt text](/workspaces/TSP-MoroccoGA/Screenshot 2024-10-24 175142.png)
+![Alt text](/workspaces/TSP-MoroccoGA/Screenshot 2024-10-24 175346.png)
 ## Visualization
 The implementation includes two visualization methods:
 1. Interactive map showing the optimal route
